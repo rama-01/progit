@@ -1,1 +1,2 @@
 let foo
+let bar
